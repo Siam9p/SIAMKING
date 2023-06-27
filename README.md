@@ -9,5 +9,5 @@ $ git clone
 
 $ cd SIAMKING
 
-$ python 
+$ python Siamking.py
 
