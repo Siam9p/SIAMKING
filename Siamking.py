@@ -1,4 +1,4 @@
-# Obfuscated with PyObfuscate
+# file ta boira dimu mother sode ja hala mother sode🤣🤣 
 # https://www.github.com/htr-tech
 # Time : Tue Jun 27 09:52:57 2023
 # -------------------------------
